@@ -4,7 +4,7 @@
 
 *Sight Unseen* is a 2D Puzzle-Platformer game created in just one week for the Brackeys Game Jam 2026.1 on itch.io, where it proudly reached the finals!
 
-<img src="./Assets/Sprites/CoverImage.png" width="500">
+<img width="1920" height="1080" alt="CoverImage" src="https://github.com/user-attachments/assets/2ce25004-c5cb-4175-96da-c5b473be0943" />
 
 👉 **[Play the game on itch.io](https://snir3308.itch.io/sight-unseen)**
 
